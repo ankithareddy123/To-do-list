@@ -7,7 +7,7 @@
 }
 ::selection{
   color: #ffff;
-  background: rgb(148, 110, 199);
+  background: rgb(148, 140, 199);
 }
 body{
   width: 100%;
@@ -81,7 +81,7 @@ body{
   list-style: none;
   margin-bottom: 8px;
   background: #f2f2f2;
-  border-radius: 3px;
+  border-radius: 4px;
   padding: 10px 15px;
   cursor: default;
   overflow: hidden;
@@ -93,7 +93,7 @@ body{
   top: 50%;
   transform: translateY(-50%);
   background: #e74c3c;
-  width: 45px;
+  width: 46px;
   text-align: center;
   color: #fff;
   padding: 10px 15px;
